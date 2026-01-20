@@ -1,17 +1,17 @@
-# Ordem de execução do PostgreSQL
+# PostgreSQL Execution Order
 
-Entendendo como o PostgreSQL realmente executa consultas SQL.
+Understanding how PostgreSQL actually executes SQL queries.
 
-## Idiomas disponíveis
+## Available Languages
 
-- [Português](./pt-br/article.md)
-- [Inglês](./en/article.md)
+- [Português](./pt-br/sql-ordem-de-execucao.md)
+- [English](./en/sql-execution-order.md)
 
-## Recursos interativos
+## Interactive Resources
 
-- [Mapa mental - Ordem de execução do PostgreSQL](https://www.mindmeister.com/3919214140/sql-postgresql-execution-order)
+- [Mind Map - PostgreSQL Execution Order](https://www.mindmeister.com/3919214140/sql-postgresql-execution-order)
 
-## Artigos publicados
+## Published Articles
 
-- [Dev.to: SQL - PostgreSQL: Ordem de Execução](https://dev.to/yurilbrok/sql-postgresql-execution-order-30pk)
+- [Dev.to: SQL - PostgreSQL Execution Order](https://dev.to/yurilbrok/sql-postgresql-execution-order-2fi1)
 
