@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados sensíveis
+*.csv
+*.xlsx
+*.db
+*.sqlite
+*.sql
+credentials.json
+config.ini
+
+# Arquivos temporários
+*.log
+*.tmp
+temp/
