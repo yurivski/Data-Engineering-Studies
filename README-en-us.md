@@ -10,7 +10,7 @@ Repository for publishing personal studies and experiments, and documentation of
 
 ---
 
-## Repository Structure
+## Studies to be Published
 
 ### [Python](./python/)
 - **Fundamentals:** Comprehensions, generators, decorators
@@ -28,10 +28,11 @@ Repository for publishing personal studies and experiments, and documentation of
 - **Linux:** Command line, Process management
 - **Databricks:** Notebooks, Clusters, Spark
 
-### [Projects](./projects/)
-- ETL Portal da Transparência
-- SISREGIP Migration (SQLite → PostgreSQL)
-- [View all projects →](./projects/)
+### [Projects](https://github.com/yurivski?tab=repositories)
+- ETL Transparency Portal
+- SISREGIP Protocol Registration System
+- Migration of data from SQLite to PostgreSQL
+- [View all projects →](https://github.com/yurivski?tab=repositories)
 
 ---
 

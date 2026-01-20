@@ -10,7 +10,7 @@ Repositório para publicação de estudos e experimentos pessoais e documentaç�
 
 ---
 
-## Estrutura do Repositório
+## Estudos a Serem Publicados
 
 ### [Python](./python/)
 - **Fundamentos:** Compreensões, geradores, decoradores
@@ -28,10 +28,11 @@ Repositório para publicação de estudos e experimentos pessoais e documentaç�
 - **Linux:** Linha de comando, Gerenciamento de processos
 - **Databricks:** Notebooks, Clusters, Spark
 
-### [Projetos](./projects/)
+### [Projetos](https://github.com/yurivski?tab=repositories)
 - ETL Portal da Transparência
-- SISREGIP Migration (SQLite → PostgreSQL)
-- [Ver todos os projetos →](./projects/)
+- SISREGIP Sistema de Registros de Protocolos
+- Migração de dados SQLite para PostgreSQL
+- [Ver todos os projetos →](https://github.com/yurivski?tab=repositories)
 
 ---
 
@@ -45,8 +46,8 @@ Cada tópico contém:
 **Exemplo:**
 ```
 python/fundamentals/comprehensions/list-comprehensions/
-├── README.md              ← Leia primeiro
-├── examples.py            ← Rode os exemplos
+├── README.md  # Leia primeiro
+├── examples.py  # Rode os exemplos
 └── assets/
     └── memory-comparison.png
 ```
