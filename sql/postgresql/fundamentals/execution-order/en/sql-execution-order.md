@@ -60,7 +60,7 @@ It classifies the data again after grouping by the key to perform the aggregatio
 
 It is good to remember that filters also have an order, the WHERE clause filters the rows before grouping, the HAVING expression filters after grouping. Understanding this gives us a processing advantage, because filtering the rows (WHERE -> FILTER -> GROUP BY) is faster than filtering a grouping (GROUP BY -> AGGREGATE -> HAVING: filters groups).
 
-![Alternative text](./assets/images/execution_order.png)
+![](./assets/images/execution_order.png)
 
 ---
 

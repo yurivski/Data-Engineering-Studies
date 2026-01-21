@@ -60,7 +60,7 @@ Ele classifica os dados novamente após agrupar pela chave para realizar a agreg
 
 É bom lembrar que os filtros também possuem uma ordem, a cláusula WHERE filtra as linhas antes do agrupamento, a expressão HAVING filtra após o agrupamento. Entender isso nos dá uma vantagem de processamento, pois filtrar as linhas (WHERE -> FILTRA -> GROUP BY) é mais rápido do que filtrar um agrupamento (GROUP BY -> AGRUPA -> HAVING: filtra grupos). 
 
-![Texto alternativo](./assets/images/execution_order.png)
+![](./assets/images/execution_order.png)
 
 ---
 
