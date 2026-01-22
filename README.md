@@ -1,6 +1,10 @@
 # Estudos de Engenharia de Dados
 
-Repositório para publicação de estudos e experimentos pessoais e documentação de conceitos consolidados de Python, SQL e outras linguagens e ferramentas aplicados à Engenharia de Dados. Este não é um repositório pronto, farei publicações ao menos uma vez por semana sobre assuntos que eu conheço ou que estou aprendendo e experimentos que já realizei ou que estou realizando para consolidar algum conhecimento e simplificar a leitura de códigos para maximizar o entendimento. Sinta-se a vontade para ler ou entrar em contato para fazer sugestões e trocar ideias de temas relacionados.
+Repositório para publicação de estudos e experimentos pessoais e documentação de conceitos consolidados de Python, SQL e outras linguagens e ferramentas aplicados à Engenharia de Dados. 
+
+Este não é um repositório pronto, farei publicações ao menos uma vez por semana sobre assuntos que eu conheço ou que estou aprendendo e experimentos que já realizei ou que estou realizando para consolidar algum conhecimento e simplificar a leitura de códigos para maximizar o entendimento. 
+
+Sinta-se a vontade para ler ou entrar em contato para fazer sugestões e trocar ideias de temas relacionados.
 
 > **Objetivo:** Catalogar conceitos consolidados, experimentos práticos, simplificação de códigos, leituras, interpretações e projetos aplicados à Engenharia de Dados.
 
@@ -15,7 +19,7 @@ Repositório para publicação de estudos e experimentos pessoais e documentaç�
 ### [Python](./python/)
 - **Fundamentos:** Compreensões, geradores, decoradores
 - **Engenharia de Dados:** Conceitos de ETL, padrões de pipeline, escalabilidade
-- **Libraries:** Pandas, PySpark, Requests
+- **Bibliotecas:** Pandas, PySpark, Requests
 
 ### [SQL](./sql/)
 - **PostgreSQL:** Ordem de execução, junções, funções de janela, desempenho
@@ -26,7 +30,7 @@ Repositório para publicação de estudos e experimentos pessoais e documentaç�
 - **Git:** Controle de versões, ramificação, colaboração
 - **Docker:** Containerização, Compose, pipelines de dados
 - **Linux:** Linha de comando, Gerenciamento de processos
-- **Databricks:** Notebooks, Clusters, Spark
+- **Databricks Community:** Notebooks, Clusters, Spark
 
 ### [Projetos](https://github.com/yurivski?tab=repositories)
 - ETL Portal da Transparência
@@ -36,7 +40,7 @@ Repositório para publicação de estudos e experimentos pessoais e documentaç�
 
 ---
 
-## Como Navegar
+## Mapa do Repositório
 
 Cada tópico contém:
 - **README.md:** Explicação teórica e conceitual
@@ -70,7 +74,7 @@ python/fundamentals/comprehensions/list-comprehensions/
 
 **Yuri Pontes**  
 Militar → Engenheiro de Dados  
-2 anos de experiência com PostgreSQL em produção  
+1 ano de experiência com PostgreSQL em produção  
 8 anos de Serviço Militar no Exército Brasileiro (Cabo)  
 
 Rio de Janeiro, Brasil  
